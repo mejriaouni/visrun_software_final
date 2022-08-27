@@ -1,0 +1,15 @@
+(cl:defpackage usb_cam-srv
+  (:use )
+  (:export
+   "DEVICES"
+   "<DEVICES-REQUEST>"
+   "DEVICES-REQUEST"
+   "<DEVICES-RESPONSE>"
+   "DEVICES-RESPONSE"
+   "GETFRAME"
+   "<GETFRAME-REQUEST>"
+   "GETFRAME-REQUEST"
+   "<GETFRAME-RESPONSE>"
+   "GETFRAME-RESPONSE"
+  ))
+

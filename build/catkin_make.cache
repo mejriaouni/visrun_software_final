@@ -1,0 +1,2 @@
+usb_cam:visrun_software
+-DCATKIN_DEVEL_PREFIX=/home/awni/Falku_ws/devel -DCMAKE_INSTALL_PREFIX=/home/awni/Falku_ws/install -G Unix Makefiles

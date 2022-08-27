@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "/home/awni/Falku_ws/build/visrun_software/visrun_software_autogen",
+	"CMAKE_BINARY_DIR" : "/home/awni/Falku_ws/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/awni/Falku_ws/build/visrun_software",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/awni/Falku_ws/src/visrun_software",
+	"CMAKE_SOURCE_DIR" : "/home/awni/Falku_ws/src",
+	"INCLUDE_DIR" : "/home/awni/Falku_ws/build/visrun_software/visrun_software_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/awni/Falku_ws/src/visrun_software/resources/database.txt",
+		"/home/awni/Falku_ws/src/visrun_software/resources/on.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/off.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/icon3.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/icon2.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/icon1.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/icon5.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/icon0.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/icon4.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/right_object_rotate_icon.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/left_object_rotate_icon.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/background.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/industry_logo.jpg",
+		"/home/awni/Falku_ws/src/visrun_software/resources/industry_logo.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/images/icon.png",
+		"/home/awni/Falku_ws/src/visrun_software/resources/message.oga"
+	],
+	"LOCK_FILE" : "/home/awni/Falku_ws/build/visrun_software/CMakeFiles/visrun_software_autogen.dir/AutoRcc_Resources_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/awni/Falku_ws/build/visrun_software/CMakeFiles/visrun_software_autogen.dir/AutoRcc_Resources_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/awni/Falku_ws/src/visrun_software/resources/Resources.qrc",
+	"VERBOSITY" : 0
+}

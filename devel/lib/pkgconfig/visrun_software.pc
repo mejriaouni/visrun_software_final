@@ -1,0 +1,8 @@
+prefix=/home/awni/Falku_ws/devel
+
+Name: visrun_software
+Description: Description of visrun_software
+Version: 0.0.0
+Cflags: -I/home/awni/Falku_ws/devel/include -I/home/awni/Falku_ws/src/visrun_software/include
+Libs: -L${prefix}/lib -lvisrun_software
+Requires: roscpp rospy rospy rqt_gui rqt_gui_cpp rqt_gui_py std_msgs cv_bridge image_transport sensor_msgs message_runtime message_generation geometry_msgs
